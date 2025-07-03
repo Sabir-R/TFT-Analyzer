@@ -4,3 +4,6 @@
 # Optional: Ignore Python virtual environment folders
 venv/
 __pycache__/
+
+# New: Ignore data folders
+DataFolders/
